@@ -4,7 +4,7 @@
         <description><![CDATA[Inside Resonate IT]]></description>
         <link>https://thegrid.ai/resonate-insider/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 12:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 12:55:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/resonate-insider/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[SharePoint + AngularJS = Shangular]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/resonate-insider/a2dbbf9a-b813-4103-b401-20539bd8e88e/index.html</link>
             <guid isPermaLink="false">a2dbbf9a-b813-4103-b401-20539bd8e88e</guid>
             <pubDate>Tue, 23 Feb 2016 12:28:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mobile platform...why?]]></title>
+            <description><![CDATA[<article><h1>Mobile platform...why?</h1><p>We were recently asked to help a client choose a mobile platform.  We have been advising and delivering solutions to this client for a while.  They are an enterprise level company and have been considering a mobile strategy for some time.</p></article>]]></description>
+            <link>https://thegrid.ai/resonate-insider/mobile-platformwhy/index.html</link>
+            <guid isPermaLink="false">69d96c18-147f-4b81-bb28-73bf3cb630b2</guid>
+            <pubDate>Tue, 23 Feb 2016 12:55:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
