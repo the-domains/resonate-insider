@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Inside Resonate IT]]></title>
         <description><![CDATA[Inside Resonate IT]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/resonate-insider/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 06:15:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 23 Feb 2016 06:19:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/resonate-insider/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fb4af03-f662-47e3-8847-d7d5d2a96490.PNG">]]></description>
-            <link>undefineda2dbbf9a-b813-4103-b401-20539bd8e88e/index.html</link>
+            <link>https://thegrid.ai/resonate-insider/a2dbbf9a-b813-4103-b401-20539bd8e88e/index.html</link>
             <guid isPermaLink="false">a2dbbf9a-b813-4103-b401-20539bd8e88e</guid>
-            <pubDate>Tue, 23 Feb 2016 06:15:25 GMT</pubDate>
+            <pubDate>Tue, 23 Feb 2016 06:19:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
