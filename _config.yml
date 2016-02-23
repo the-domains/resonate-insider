@@ -1,6 +1,6 @@
 name: Resonate Insider
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.57615
 typography_spectrum: 0.55339
 title: Inside Resonate IT
 cta:
@@ -22,8 +22,8 @@ color:
     - '#666666'
     - '#018fd2'
     - '#cdcfd1'
-  brandStrength: 0.375
+  brandStrength: 0.25
   lightness: 0.25
   saturation: 0.25
-  rhythmicContrast: 1
+  rhythmicContrast: 0.5
 purpose: []
