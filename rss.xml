@@ -4,7 +4,7 @@
         <description><![CDATA[Inside Resonate IT]]></description>
         <link>https://thegrid.ai/resonate-insider/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 22:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 22:21:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/resonate-insider/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/resonate-insider/a2dbbf9a-b813-4103-b401-20539bd8e88e/index.html</link>
             <guid isPermaLink="false">a2dbbf9a-b813-4103-b401-20539bd8e88e</guid>
             <pubDate>Tue, 23 Feb 2016 12:28:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Products</p>]]></description>
-            <link>https://thegrid.ai/resonate-insider/cf9e4c83-fced-4516-9062-fadb01907142/index.html</link>
-            <guid isPermaLink="false">cf9e4c83-fced-4516-9062-fadb01907142</guid>
-            <pubDate>Fri, 26 Feb 2016 22:18:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
