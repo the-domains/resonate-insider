@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Choosing a mobile platform?  Why?
-datePublished: '2016-02-23T12:55:19.009Z'
-dateModified: '2016-02-23T12:55:14.371Z'
+datePublished: '2016-02-26T07:24:31.473Z'
+dateModified: '2016-02-23T12:56:03.993Z'
 title: Mobile platform...why?
 author: []
 authors: []
